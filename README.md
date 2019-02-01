@@ -16,5 +16,5 @@
 
 ## Used Technologies
    1) Javascript
-   2)electron
+   2) electron
    3) Database : MSSQL
