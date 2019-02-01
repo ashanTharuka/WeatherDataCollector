@@ -1,5 +1,5 @@
 
-#WeatherDataCollector
+# WeatherDataCollector
 
     if you change anything in the project run these cmds in the terminal,after that new exe is build....
 	
