@@ -1,6 +1,9 @@
 
 # WeatherDataCollector
 
+![weatherApp](/public/img/UI.PNG)
+
+
    Using this application you can collect current weather data from specified tows by scheduling specified time.
    you should append country domain at the end of the town name.
 
