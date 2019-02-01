@@ -1,14 +1,11 @@
 
-
-
-============================================================================================================================
+#WeatherDataCollector
 
     if you change anything in the project run these cmds in the terminal,after that new exe is build....
 	
     1)  npm install --save-dev electron-packager
     2)  npm run package-win
 
-============================================================================================================================
 
 
 # openweather-apis
