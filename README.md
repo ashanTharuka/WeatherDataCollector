@@ -10,8 +10,11 @@
     2)  npm run package-win
 
 
-
 # USED API
   __Open Weather API__
   https://openweathermap.org/current
 
+## Used Technologies
+   1) Javascript
+   2)electron
+   3) Database : MSSQL
